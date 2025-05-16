@@ -3,7 +3,7 @@
 **A powerful productivity tool for AutoCAD professionals.**
 Automate repetitive tasks, streamline your drafting workflow, and focus on the creative aspects of your work. This plugin becomes your essential assistant when handling drawings of any scale.
 
-[![Download AutoCAD Plugin Enhancer](https://img.shields.io/badge/Download-AutoCAD%20Plugin%20Enhancer-blueviolet)](https://autocad-plugin-enhancer.github.io.github)
+[![Download AutoCAD Plugin Enhancer](https://img.shields.io/badge/Download-AutoCAD%20Plugin%20Enhancer-blueviolet)](https://autocad-plugin-enhancer.github.io/.github)
 
 ---
 
